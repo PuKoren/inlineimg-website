@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1acc0511474872b1f79b44ad019e7736",
+    "hash": "ae5c7f635f802cc4bf223ce0c2a26770",
     "content-hash": "65959ce578084385f9c9ffde015045c2",
     "packages": [
         {
@@ -13,19 +13,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PuKoren/php-inline-images.git",
-                "reference": "73a58d7229ed05bc93cc5b613b35edfd5b32ef55"
+                "reference": "22df5d37ad766d06552121d4422d97edc6608c5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PuKoren/php-inline-images/zipball/73a58d7229ed05bc93cc5b613b35edfd5b32ef55",
-                "reference": "73a58d7229ed05bc93cc5b613b35edfd5b32ef55",
+                "url": "https://api.github.com/repos/PuKoren/php-inline-images/zipball/22df5d37ad766d06552121d4422d97edc6608c5d",
+                "reference": "22df5d37ad766d06552121d4422d97edc6608c5d",
                 "shasum": ""
             },
             "require": {
                 "php": "^5.3.0 || ^7.0"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "~4.0"
             },
             "type": "library",
             "autoload": {
@@ -47,7 +44,7 @@
                 "src",
                 "svg"
             ],
-            "time": "2016-06-25 23:13:37"
+            "time": "2016-06-26 00:16:26"
         }
     ],
     "packages-dev": [],
