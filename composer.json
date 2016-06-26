@@ -1,0 +1,8 @@
+{
+    "require": {
+        "koren/inline-images": "^0.1.0"
+    },
+    "config": {
+        "vendor-dir": "src/vendor"
+    }
+}
